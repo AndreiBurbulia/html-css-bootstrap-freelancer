@@ -1,0 +1,50 @@
+/* Debbug item */
+
+section{
+    height: 300px;
+}
+
+.dbg{
+    height: 100%;
+    width: 100%;
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+
+/********************** Header **********************/
+header{
+    height: 100px;
+    background-color: #2C3E50;
+
+}
+
+/********************** Main **********************/
+
+/*------ Introduction ------*/
+.introduction{
+    background-color: #1ABC9C;
+}
+/*------ Portfolio ------*/
+.portfolio{
+    background-color: lightgray;
+}
+/*------ About ------*/
+
+.about{
+    background-color: #1ABC9C;
+}
+/*------ Contact me ------*/
+.contact{
+    background-color: lightgray;
+}
+
+
+/********************** Footer **********************/
+/*------ Detail and Link ------*/
+.detail{
+    background-color: #3A546D;
+}
+/*------ Copyright ------*/
+.copyright{
+    background-color: #2C3E50;
+}
