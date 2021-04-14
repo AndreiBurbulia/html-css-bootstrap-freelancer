@@ -1,14 +1,18 @@
 /* Debbug item */
 
-section{
-    height: 300px;
-}
-
 .dbg{
     height: 100%;
     width: 100%;
     background-color: lightgreen;
     border: 2px solid black;
+}
+/********************** Utility **********************/
+
+.middle_line{
+    display: inline-block;
+    border-bottom: 2px solid;
+    width: 100px;
+    margin: 0;
 }
 
 /********************** Header **********************/
@@ -25,7 +29,13 @@ header{
 /*------ Introduction ------*/
 .introduction{
     background-color: #1ABC9C;
+
 }
+.introduction img{
+    height: 200px;
+}
+
+
 /*------ Portfolio ------*/
 .portfolio{
     background-color: lightgray;
