@@ -53,8 +53,20 @@ header{
 }
 
 /*------ Contact me ------*/
-.contact{
-    background-color: lightgray;
+.contact form ::placeholder{
+    color: black;
+}
+.contact form input, 
+.contact form textarea{
+    border: none;
+    border-radius: 0;
+    padding-right: 0;
+    border-bottom: 1px solid black;
+}
+
+.contact form button{
+    background-color: #1ABC9C;
+    color: white;
 }
 
 
