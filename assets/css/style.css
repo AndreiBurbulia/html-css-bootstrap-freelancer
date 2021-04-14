@@ -13,10 +13,12 @@ section{
 
 /********************** Header **********************/
 header{
-    height: 100px;
     background-color: #2C3E50;
-
 }
+.voci_right a{
+    font-size: 1rem;
+}
+
 
 /********************** Main **********************/
 
